@@ -1,1 +1,1 @@
-'geoSarch_react'
+'geo-sarch_react'
